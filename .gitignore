@@ -1,0 +1,12 @@
+archive
+Helpful Things
+now_solving
+program
+desktop.ini
+.vscode
+
+__pycache__
+
+Dockerfile
+*.yml
+*.sage.py
