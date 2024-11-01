@@ -1,0 +1,11 @@
+ebook
+program
+tmp
+desktop.ini
+.vscode
+
+__pycache__
+
+Dockerfile
+*.yml
+*.sage.py
